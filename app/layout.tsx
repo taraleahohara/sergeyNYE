@@ -11,6 +11,19 @@ const playfair = Playfair_Display({
 export const metadata: Metadata = {
   title: "Sergey's NYE Bash",
   description: "Celebration of the Fire Horse Year (2026)",
+  robots: {
+    index: false,
+    follow: false,
+    nocache: true,
+    googleBot: {
+      index: false,
+      follow: false,
+      noimageindex: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'none',
+      'max-snippet': -1,
+    },
+  },
 };
 
 export default function RootLayout({

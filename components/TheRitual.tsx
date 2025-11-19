@@ -1,5 +1,7 @@
 "use client";
 
+import Image from "next/image";
+
 export default function TheRitual() {
   return (
     <section className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-white to-gray-50">
@@ -24,9 +26,11 @@ export default function TheRitual() {
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 mb-12">
             <div className="flex flex-col items-center">
               <div className="w-full aspect-square bg-white border-8 border-white shadow-lg mb-4">
-                <img
+                <Image
                   src="https://placehold.co/400x400?text=Horse+Example"
                   alt="Horse Example 1"
+                  width={400}
+                  height={400}
                   className="w-full h-full object-cover"
                 />
               </div>
@@ -36,9 +40,11 @@ export default function TheRitual() {
             </div>
             <div className="flex flex-col items-center">
               <div className="w-full aspect-square bg-white border-8 border-white shadow-lg mb-4 rotate-2">
-                <img
+                <Image
                   src="https://placehold.co/400x400?text=Horse+Example"
                   alt="Horse Example 2"
+                  width={400}
+                  height={400}
                   className="w-full h-full object-cover"
                 />
               </div>
@@ -48,9 +54,11 @@ export default function TheRitual() {
             </div>
             <div className="flex flex-col items-center">
               <div className="w-full aspect-square bg-white border-8 border-white shadow-lg mb-4">
-                <img
+                <Image
                   src="https://placehold.co/400x400?text=Horse+Example"
                   alt="Horse Example 3"
+                  width={400}
+                  height={400}
                   className="w-full h-full object-cover"
                 />
               </div>

@@ -34,7 +34,7 @@ export default function Header() {
                 isScrolled ? "text-gray-900" : "text-gray-800"
               }`}
             >
-              Sergey's NYE Bash
+              Sergey&apos;s NYE Bash
             </span>
           </div>
           <button

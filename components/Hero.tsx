@@ -9,7 +9,7 @@ export default function Hero() {
           <span className="inline-block bg-[#C62828] text-white px-3 py-0.5 sm:px-4 sm:py-1 rounded-lg sm:rounded-xl">
             Fire Horse
           </span>{" "}
-          <span className="font-serif">New Year's Eve Celebration</span>
+          <span className="font-serif">New Year&apos;s Eve Celebration</span>
         </h1>
 
         {/* Subtext */}
