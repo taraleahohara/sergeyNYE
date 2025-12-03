@@ -19,7 +19,7 @@ const faqData: FAQItem[] = [
   },
   {
     question: "Can I bring a guest?",
-    answer: "Please check with Sergey directly.",
+    answer: "Please bring your +1s, for additional guests please reach out ot Sergey.",
   },
 ];
 

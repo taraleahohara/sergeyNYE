@@ -16,7 +16,7 @@ export default function EventDetails() {
                   <span className="text-3xl sm:text-4xl flex-shrink-0">⏰</span>
                   <div>
                     <p className="text-xl sm:text-2xl md:text-3xl text-gray-700 font-medium">
-                      Time: <span className="font-normal">6:00 PM until Late</span>
+                      Time: <span className="font-normal">7:00 PM until Late</span>
                     </p>
                   </div>
                 </li>
