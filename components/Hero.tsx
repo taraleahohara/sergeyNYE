@@ -20,7 +20,7 @@ export default function Hero() {
         {/* RSVP Button */}
         <div>
           <a
-            href="https://docs.google.com/forms/d/1ux2z83abNjUl_wvzkCOsM0P4eqpf_qf0wA6I4MqIIxE/edit"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSdn0x85gageegBa4t9xiMy3eI4q1Dr2a0LtLm3aSfObNBMJUw/viewform?usp=dialog"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block px-8 sm:px-10 py-3 sm:py-4 text-lg sm:text-xl font-semibold text-black bg-[#D4AF37] rounded-full hover:bg-[#D4AF37]/90 transition-all duration-200"

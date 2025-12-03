@@ -11,7 +11,7 @@ interface FAQItem {
 const faqData: FAQItem[] = [
   {
     question: "What is the dress code?",
-    answer: "Lucky colors! Red, Green, or Gold.",
+    answer: "Everyone is encouraged to dress in the lucky colours to bring good energy into the new year. Blue is an unlucky colour, it is recommended to avoid wearing it.",
   },
   {
     question: "What should I bring?",

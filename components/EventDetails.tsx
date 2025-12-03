@@ -24,7 +24,7 @@ export default function EventDetails() {
                   <span className="text-3xl sm:text-4xl flex-shrink-0">📍</span>
                   <div>
                     <p className="text-xl sm:text-2xl md:text-3xl text-gray-700 font-medium">
-                      Location: <span className="font-normal">120 Homewood Avenue, Toronto</span>
+                      Location: <span className="font-normal">120 Homewood Avenue, Unit 3305</span>
                     </p>
                   </div>
                 </li>
@@ -32,7 +32,7 @@ export default function EventDetails() {
                   <span className="text-3xl sm:text-4xl flex-shrink-0">🔑</span>
                   <div>
                     <p className="text-xl sm:text-2xl md:text-3xl text-gray-700 font-medium">
-                      Access: <span className="font-normal">Buzzer 1234 (Party Room)</span>
+                      Access: <span className="font-normal">Buzzer 3416</span>
                     </p>
                   </div>
                 </li>
@@ -44,7 +44,7 @@ export default function EventDetails() {
           <div className="w-full">
             <div className="w-full h-[300px] sm:h-[400px] lg:h-[500px] rounded-lg shadow-lg overflow-hidden">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.315104!2d-79.376678!3d43.665556!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDPCsDM5JzU2LjAiTiA3OcKwMjInMzYuMSJX!5e0!3m2!1sen!2sca!4v1700000000000!5m2!1sen!2sca&q=120+Homewood+Avenue+Toronto"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.0985613588805!2d-79.37887398819566!3d43.66691995142281!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4cb4d92ee2beb%3A0x3062a6ca796e2c66!2s120%20Homewood%20Ave%2C%20Toronto%2C%20ON%20M4Y%202J3!5e0!3m2!1sen!2sca!4v1764763638983!5m2!1sen!2sca"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}

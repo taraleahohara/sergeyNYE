@@ -40,7 +40,7 @@ export default function FireHorseEnergy() {
               </h3>
               <p className="text-gray-800 leading-relaxed text-lg">
                 Everyone is encouraged to dress in the lucky colours to bring
-                good energy into the new year.
+                good energy into the new year. Blue is an unlucky colour, it is recommended to avoid wearing it.
               </p>
             </div>
           </div>

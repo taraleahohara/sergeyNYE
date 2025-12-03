@@ -12,7 +12,7 @@ export default function Footer() {
 
           {/* RSVP Button */}
           <a
-            href="https://docs.google.com/forms/d/1ux2z83abNjUl_wvzkCOsM0P4eqpf_qf0wA6I4MqIIxE/edit"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSdn0x85gageegBa4t9xiMy3eI4q1Dr2a0LtLm3aSfObNBMJUw/viewform?usp=dialog"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block px-10 py-4 rounded-full font-bold text-gray-900 bg-lucky-gold hover:bg-lucky-gold/90 hover:shadow-2xl hover:shadow-lucky-gold/30 transform hover:scale-105 transition-all duration-300"

@@ -27,7 +27,7 @@ export default function TheRitual() {
             <div className="flex flex-col items-center">
               <div className="w-full aspect-square bg-white border-8 border-white shadow-lg mb-4">
                 <Image
-                  src="https://placehold.co/400x400?text=Horse+Example"
+                  src="/HORSE1.jpg"
                   alt="Horse Example 1"
                   width={400}
                   height={400}
@@ -41,7 +41,7 @@ export default function TheRitual() {
             <div className="flex flex-col items-center">
               <div className="w-full aspect-square bg-white border-8 border-white shadow-lg mb-4 rotate-2">
                 <Image
-                  src="https://placehold.co/400x400?text=Horse+Example"
+                  src="/HORSE2.jpg"
                   alt="Horse Example 2"
                   width={400}
                   height={400}
@@ -55,7 +55,7 @@ export default function TheRitual() {
             <div className="flex flex-col items-center">
               <div className="w-full aspect-square bg-white border-8 border-white shadow-lg mb-4">
                 <Image
-                  src="https://placehold.co/400x400?text=Horse+Example"
+                  src="/HORSE3.jpg"
                   alt="Horse Example 3"
                   width={400}
                   height={400}
@@ -71,7 +71,7 @@ export default function TheRitual() {
           {/* Secondary RSVP Button */}
           <div className="text-center">
             <a
-              href="https://docs.google.com/forms/d/1ux2z83abNjUl_wvzkCOsM0P4eqpf_qf0wA6I4MqIIxE/edit"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSdn0x85gageegBa4t9xiMy3eI4q1Dr2a0LtLm3aSfObNBMJUw/viewform?usp=dialog"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-8 py-4 rounded-full font-semibold text-white bg-lucky-red hover:bg-lucky-red/90 hover:shadow-xl hover:shadow-lucky-red/30 transform hover:scale-105 transition-all duration-300"

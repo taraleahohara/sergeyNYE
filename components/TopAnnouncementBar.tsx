@@ -90,7 +90,7 @@ export default function TopAnnouncementBar() {
           {/* Right: RSVP Button */}
           <div className="flex-shrink-0">
             <a
-              href="https://docs.google.com/forms/d/1ux2z83abNjUl_wvzkCOsM0P4eqpf_qf0wA6I4MqIIxE/edit"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSdn0x85gageegBa4t9xiMy3eI4q1Dr2a0LtLm3aSfObNBMJUw/viewform?usp=dialog"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-2 sm:px-3 md:px-4 py-1 sm:py-1.5 md:py-2 rounded-full text-[10px] sm:text-xs md:text-sm font-semibold text-[#D4AF37] bg-black hover:bg-black/90 transition-all duration-200"

@@ -37,11 +37,14 @@ export default function Header() {
               Sergey&apos;s NYE Bash
             </span>
           </div>
-          <button
+          <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLSdn0x85gageegBa4t9xiMy3eI4q1Dr2a0LtLm3aSfObNBMJUw/viewform?usp=dialog"
+            target="_blank"
+            rel="noopener noreferrer"
             className="px-6 py-2.5 rounded-full font-medium text-black bg-transparent border-2 border-black hover:bg-black hover:text-white transform hover:scale-105 transition-all duration-300"
           >
             RSVP
-          </button>
+          </a>
         </div>
       </div>
     </header>
